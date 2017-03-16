@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 31d684fda1788d54cbb15e32c5092a7a
+timeCreated: 1489641049
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Hand: {instanceID: 0}
+  - button_up: {fileID: 21300000, guid: fca54fc04fe6dd841b51bdefcbe45876, type: 3}
+  - button_down: {fileID: 21300000, guid: a769b7a5f2a701b47a302b6ec8289b13, type: 3}
+  - handScript: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
