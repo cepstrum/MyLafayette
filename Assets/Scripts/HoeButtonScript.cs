@@ -12,9 +12,8 @@ public class HoeButtonScript : MonoBehaviour {
 	public HandScript handScript;
 
 
-
-
 	public void OnMouseDown(){
+		Debug.Log ("I pressed the button");
 		handScript = Hand.GetComponent<HandScript> ();
 		if (handScript.ToolInHand == 0) { // 0 means nothing
 			GetComponent<SpriteRenderer>().sprite = button_down;
